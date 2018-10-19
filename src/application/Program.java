@@ -19,7 +19,7 @@ public class Program {
 
 		Leitor.ler(filePath, listaAcessos);
 		
-		System.out.println("Foram: " + listaAcessos.size() + " acessos únicos.");
+		System.out.println("Foram: " + listaAcessos.size() + " usuários únicos.");
 
 		sc.close();
 
